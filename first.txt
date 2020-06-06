@@ -1,3 +1,5 @@
 Gitの練習をしてきます。
 .git add gitcommit
 .git remove
+
+/aaaS
